@@ -1,6 +1,6 @@
 package org.blindustries.controllers;
 
-import org.blindustries.dtos.Product;
+import org.blindustries.models.Product;
 import org.blindustries.service.ProductService;
 
 import java.util.List;

@@ -1,6 +1,6 @@
 package org.blindustries.service;
 
-import org.blindustries.dtos.Product;
+import org.blindustries.models.Product;
 
 import java.util.ArrayList;
 import java.util.List;
