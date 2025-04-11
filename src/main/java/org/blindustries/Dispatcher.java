@@ -1,6 +1,6 @@
 package org.blindustries;
 
-import org.blindustries.Controllers.ProductController;
+import org.blindustries.controllers.ProductController;
 
 import java.lang.reflect.Method;
 import java.util.HashMap;
